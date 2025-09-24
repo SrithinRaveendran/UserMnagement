@@ -20,15 +20,15 @@ It connects to the free [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
  📂 Project Structure
  src/
-index.jsx # React entry
-App.jsx # Root component
-styles/main.css # Global styles
-components/ # UI components
-UserTable.jsx
-UserForm.jsx
-Pagination.jsx
-SearchFilter.jsx
-services/ # API layer
+    index.jsx # React entry
+    App.jsx # Root component
+    styles/main.css # Global styles
+    components/ # UI components
+       UserTable.jsx
+       UserForm.jsx
+       Pagination.jsx
+       SearchFilter.jsx
+       services/ # API layer
 userService.js
 hooks/ # Custom React hooks
 useUsers.js
